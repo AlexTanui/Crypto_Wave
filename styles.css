@@ -1,0 +1,180 @@
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;500;600;700&display=swap');
+
+
+body{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    display: grid;
+    background-color: #e9ebec;
+    align-content: center;
+    max-width: 100%;
+} 
+span{
+    color: brown;
+}
+#home_page{
+    padding-top: 80px;
+}
+#home_background{
+    height: 500px;
+}
+
+.container {
+    max-width: 960px;
+    margin: 0 auto;
+    color: whitesmoke;
+  }
+  
+  .img-fluid {
+    max-width: 100%;
+    height: auto;
+  }
+  #logoimg{
+    width: 20%;
+    height: fit-content;
+    margin-bottom: -50px;
+    margin-top: -30px;
+  }
+  #home_link{
+    color: rgb(235, 202, 15);
+  }
+  #home_link:hover{
+    color: rgb(209, 12, 12);
+  }
+ .nav-link{
+  color: rgb(235, 202, 15);
+}
+.nav-link:hover{
+  color: rgb(209, 12, 12);
+}
+#ïntro-home{
+  margin-top: 20px;
+  margin-left: 20px;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+
+#home_card_one{
+  width: 440px;
+  height: 320px;
+  margin-left: 120px;
+}
+.carousel-item img{
+  width: 180px;
+  height: 180px;
+}
+#couresel_h5{
+  color: rgb(235, 202, 15);
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  margin-left: 120px;
+}
+#couresl_price{
+  color: rgb(209, 12, 12);
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  margin-left: 120px;
+}
+#couresl_market{
+  color: black;
+  margin-left: 160px;
+}
+
+#about_us{
+  color: black;
+}
+.col-md-6 h2{
+  color: rgb(209, 12, 12);
+}
+.col-md-6 h3{
+  color: rgb(235, 202, 15)
+}
+  .partners-section {
+    background-color: #f9f9f9;
+    padding: 40px 0;
+  }
+  
+  .partner {
+    text-align: center;
+  }
+  
+  .partner img {
+    max-width: 100%;
+    height: auto;
+    margin-bottom: 10px;
+    border-radius: 50%; /* Make the image round like a circle */
+    width: 100px; /* Adjust the image width as needed */
+    height: 100px; /* Adjust the image height as needed */
+  }
+  
+  .partner h4 {
+    margin: 0;
+    color: rgb(10, 10, 10);
+  }
+  #partners_head{
+    margin-left: 450px;
+    color: brown;
+  }
+  
+.navigation-links li a {
+    color: white; /* Set the color of the links to white */
+    text-decoration: none; /* Remove underline from links */
+  }
+  
+  .navigation-links li a:hover {
+    text-decoration: none; /* Remove underline on hover */
+  }
+  .social-media-icons li a {
+    color: white; /* Set the color of the icons to white */
+  }
+  
+  .social-media-icons li a:hover {
+    color: #e8e8e8; /* Set the hover color to a lighter shade of white */
+  }
+button{
+  background-color: brown ;
+}
+  .coin-icon {
+    width: 30px;
+    height: 30px;
+  }
+  table{
+    max-width: 180%;
+  }
+  th{
+    color: brown;
+  }
+  .favorited {
+    color: rgb(255, 217, 0);
+  }
+  #search_name{
+    width: 380px;
+    margin-left: 400px;
+    margin-top: 20px;
+    margin-bottom: 30px;
+  }
+  #search_button{
+    background-color: brown;
+    color: whitesmoke;
+  }
+  .name-column {
+    width: 100px;
+  }
+  .card-group{
+    margin-top: 40px;
+    padding-top: 20px;
+    margin-bottom: 40px;
+    width: 780px;
+    margin-left: 200px;
+  }
+  /* .card{
+    width: 20px;
+    margin-right: 10px;
+    
+  } */
+  #reg_img{
+    /* CSS styles for the image */
+    /* For example, you can set width and height */
+    width: 90px;
+    height: 90px;
+  }
+  footer{
+    background-color: rgb(39, 38, 38);
+  }
