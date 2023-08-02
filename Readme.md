@@ -1,4 +1,4 @@
-# Crypto App
+# Crypto wave App
 
 ## Description
 This is a web application that provides real-time information about cryptocurrencies. It fetches data from the CoinRanking API to display a table with details such as cryptocurrency names, prices, market caps, volumes (24h), circulating supplies, and price changes over the last 7 days. The app also includes a search feature that allows users to filter cryptocurrencies by name.
@@ -7,7 +7,7 @@ This is a web application that provides real-time information about cryptocurren
 - HTML
 - CSS
 - Bootsrap
-- JavaScript
+- JavaScriptgit commit
 - Chart.js (library for displaying sparkline charts)
 
 ## Installation and Usage
@@ -21,10 +21,11 @@ This is a web application that provides real-time information about cryptocurren
 - Ability to search and filter cryptocurrencies by name.
 - Sparkline chart representation of price changes over the last 7 days.
 - Responsive design for optimal viewing on different devices.
+- like fevorite crypto currency
 
 ## License
 This project is licensed under the [MIT License](LICENSE).
 
 ## Author
-- [Alex Tanui](https://github.com/AlexTanui/Cryptowatch)
+- [Ian Kamau](https://github.com/AlexTanui/Cryptowatch)
 
